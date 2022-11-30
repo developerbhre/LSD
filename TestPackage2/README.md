@@ -1,0 +1,2 @@
+# Package Name : TestPackage2
+This is an Integration Server package and requires a webMethods Integration Server or webMethods Microservices Runtime to host it.Package versioning and configuration can be found in the package [manifest](./TestPackage2/manifest.v3) file.
